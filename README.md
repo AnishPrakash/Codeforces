@@ -6,16 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [math](#math) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.c) |
 
 ### brute force
 
