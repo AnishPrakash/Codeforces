@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 9 | 7 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (2)
-- [math](#math) (1)
+- [math](#math) (2)
 - [strings](#strings) (1)
 
 ---
@@ -47,6 +47,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/231/A%20-%20Team/solution.c) |
 
 ### implementation
@@ -61,6 +62,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 
 ### strings
 
