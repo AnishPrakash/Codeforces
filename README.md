@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 8 |
+| 16 | 8 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (8)
-- [math](#math) (2)
+- [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
 
@@ -72,6 +72,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.c) |
 
 ### sortings
 
