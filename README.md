@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 8 |
+| 17 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
@@ -61,6 +61,7 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.c) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.c) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.c) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
