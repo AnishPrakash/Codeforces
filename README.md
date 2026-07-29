@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 8 |
+| 19 | 8 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (4)
 - [sortings](#sortings) (1)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 
 ---
 
@@ -58,6 +58,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/59/A%20-%20Word/solution.c) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
@@ -88,6 +89,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/59/A%20-%20Word/solution.c) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.c) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
