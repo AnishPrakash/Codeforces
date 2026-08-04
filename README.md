@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 8 |
+| 25 | 8 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (16)
 - [math](#math) (4)
@@ -44,6 +44,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 
 ### greedy
