@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 8 |
+| 27 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (5)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (4)
 - [sortings](#sortings) (1)
 - [strings](#strings) (8)
@@ -76,6 +76,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.c) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.c) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.c) |
 
 ### math
 
