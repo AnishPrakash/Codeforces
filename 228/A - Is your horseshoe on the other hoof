@@ -1,17 +1,21 @@
-<h2><a href="https://codeforces.com/contest/228/problem/A" target="_blank" rel="noopener noreferrer">228A — Is your horseshoe on the other hoof?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | 800 |
-| **Language** | GNU C11 |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 228A](https://codeforces.com/contest/228/problem/A) |
-
-## Topics
-`implementation`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">A. Is your horseshoe on the other hoof?</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Valera the Horse is going to the party with friends. He has been following the fashion trends for a while, and he knows that it is very popular to wear all horseshoes of different color. Valera has got four horseshoes left from the last year, but maybe some of them have the same color. In this case he needs to go to the store and buy some few more horseshoes, not to lose face in front of his stylish comrades.</p><p>Fortunately, the store sells horseshoes of all colors under the sun and Valera has enough money to buy any four of them. However, in order to save the money, he would like to spend as little money as possible, so you need to help Valera and determine what is the minimum number of horseshoes he needs to buy to wear four horseshoes of different colors to a party.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains four space-separated integers <span class="tex-span"><i>s</i><sub class="lower-index">1</sub>, <i>s</i><sub class="lower-index">2</sub>, <i>s</i><sub class="lower-index">3</sub>, <i>s</i><sub class="lower-index">4</sub></span> <span class="tex-span">(1 ≤ <i>s</i><sub class="lower-index">1</sub>, <i>s</i><sub class="lower-index">2</sub>, <i>s</i><sub class="lower-index">3</sub>, <i>s</i><sub class="lower-index">4</sub> ≤ 10<sup class="upper-index">9</sup>)</span> — the colors of horseshoes Valera has.</p><p>Consider all possible colors indexed with integers.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single integer — the minimum number of horseshoes Valera needs to buy.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id006593464930074884" id="id009969672276222159" class="input-output-copier">Copy</div></div><pre id="id006593464930074884">1 7 3 3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0007185542771775388" id="id0033796574704669535" class="input-output-copier">Copy</div></div><pre id="id0007185542771775388">1<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0025046021063727153" id="id007420573213951133" class="input-output-copier">Copy</div></div><pre id="id0025046021063727153">7 7 7 7<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009803236964842137" id="id0022403680026260553" class="input-output-copier">Copy</div></div><pre id="id009803236964842137">3<br></pre></div></div></div>
+#include <stdio.h>
+ 
+int main() {
+    int a[4];
+    if (scanf("%d %d %d %d", &a[0], &a[1], &a[2], &a[3]) == 4) {
+        int distinct = 0;
+        for (int i = 0; i < 4; i++) {
+            int unique = 1;
+            for (int j = 0; j < i; j++) {
+                if (a[i] == a[j]) {
+                    unique = 0;
+                    break;
+                }
+            }
+            distinct += unique;
+        }
+        printf("%d
+", 4 - distinct);
+    }
+    return 0;
+}
