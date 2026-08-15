@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 11 |
+| 36 | 11 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (26)
-- [math](#math) (6)
+- [math](#math) (7)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (8)
@@ -111,6 +111,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.c) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.c) |
 
 ### shortest paths
 
