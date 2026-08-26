@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 12 |
+| 47 | 12 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (35)
-- [math](#math) (8)
+- [implementation](#implementation) (36)
+- [math](#math) (9)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (10)
@@ -119,6 +119,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.c) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.c) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.c) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.c) |
 
 ### math
@@ -133,6 +134,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.c) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.c) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.c) |
 
 ### shortest paths
 
