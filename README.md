@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 14 |
+| 54 | 14 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (39)
+- [implementation](#implementation) (40)
 - [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -116,6 +116,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.c) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/344/A%20-%20Magnets/solution.c) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/427/A%20-%20Police%20Recruits/solution.c) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.c) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.c) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
