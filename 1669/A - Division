@@ -1,17 +1,26 @@
-<h2><a href="https://codeforces.com/contest/1669/problem/A" target="_blank" rel="noopener noreferrer">1669A — Division?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | 800 |
-| **Language** | GNU C11 |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 1669A](https://codeforces.com/contest/1669/problem/A) |
-
-## Topics
-`implementation`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">A. Division?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Codeforces separates its users into $$$4$$$ divisions by their rating:</p><ul> <li> For Division 1: $$$1900 \leq \mathrm{rating}$$$ </li><li> For Division 2: $$$1600 \leq \mathrm{rating} \leq 1899$$$ </li><li> For Division 3: $$$1400 \leq \mathrm{rating} \leq 1599$$$ </li><li> For Division 4: $$$\mathrm{rating} \leq 1399$$$ </li></ul><p>Given a $$$\mathrm{rating}$$$, print in which division the $$$\mathrm{rating}$$$ belongs.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains an integer $$$t$$$ ($$$1 \leq t \leq 10^4$$$) — the number of testcases.</p><p>The description of each test case consists of one line containing one integer $$$\mathrm{rating}$$$ ($$$-5000 \leq \mathrm{rating} \leq 5000$$$).</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output a single line containing the correct division in the format "<span class="tex-font-style-tt">Division X</span>", where $$$X$$$ is an integer between $$$1$$$ and $$$4$$$ representing the division for the corresponding rating.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0013456025047723918" id="id003167742550028537" class="input-output-copier">Copy</div></div><pre id="id0013456025047723918"><div class="test-example-line test-example-line-even test-example-line-0">7</div><div class="test-example-line test-example-line-odd test-example-line-1">-789</div><div class="test-example-line test-example-line-even test-example-line-2">1299</div><div class="test-example-line test-example-line-odd test-example-line-3">1300</div><div class="test-example-line test-example-line-even test-example-line-4">1399</div><div class="test-example-line test-example-line-odd test-example-line-5">1400</div><div class="test-example-line test-example-line-even test-example-line-6">1679</div><div class="test-example-line test-example-line-odd test-example-line-7">2300</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0037138010957295364" id="id00004770827173386949" class="input-output-copier">Copy</div></div><pre id="id0037138010957295364"><div class="test-example-line test-example-line-odd test-example-line-1">Division 4</div><div class="test-example-line test-example-line-even test-example-line-2">Division 4</div><div class="test-example-line test-example-line-odd test-example-line-3">Division 4</div><div class="test-example-line test-example-line-even test-example-line-4">Division 4</div><div class="test-example-line test-example-line-odd test-example-line-5">Division 3</div><div class="test-example-line test-example-line-even test-example-line-6">Division 2</div><div class="test-example-line test-example-line-odd test-example-line-7">Division 1</div></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>For test cases $$$1-4$$$, the corresponding ratings are $$$-789$$$, $$$1299$$$, $$$1300$$$, $$$1399$$$, so all of them are in division $$$4$$$.</p><p>For the fifth test case, the corresponding rating is $$$1400$$$, so it is in division $$$3$$$.</p><p>For the sixth test case, the corresponding rating is $$$1679$$$, so it is in division $$$2$$$.</p><p>For the seventh test case, the corresponding rating is $$$2300$$$, so it is in division $$$1$$$.</p></div>
+#include <stdio.h>
+ 
+int main() {
+    int t;
+    if (scanf("%d", &t) == 1) {
+        while (t--) {
+            int rating;
+            scanf("%d", &rating);
+            
+            if (rating >= 1900) {
+                printf("Division 1
+");
+            } else if (rating >= 1600) {
+                printf("Division 2
+");
+            } else if (rating >= 1400) {
+                printf("Division 3
+");
+            } else {
+                printf("Division 4
+");
+            }
+        }
+    }
+    return 0;
+}
