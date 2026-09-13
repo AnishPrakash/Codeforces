@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 62 | 16 |
+| 63 | 16 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (46)
-- [math](#math) (15)
+- [math](#math) (16)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
@@ -171,6 +171,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.c) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.c) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
+| 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.c) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.c) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.c) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.c) |
