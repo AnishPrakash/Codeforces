@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 69 | 16 |
+| 70 | 16 |
 
 ---
 
@@ -20,9 +20,9 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (50)
-- [math](#math) (19)
+- [math](#math) (20)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
@@ -105,6 +105,7 @@
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.c) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.c) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.c) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.c) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.c) |
 
 ### implementation
@@ -184,6 +185,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.c) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.c) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.c) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.c) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.c) |
 
 ### number theory
