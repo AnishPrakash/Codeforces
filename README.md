@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 82 | 18 |
+| 84 | 18 |
 
 ---
 
@@ -16,15 +16,15 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (11)
+- [brute force](#brute-force) (12)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (12)
-- [implementation](#implementation) (60)
-- [math](#math) (23)
+- [implementation](#implementation) (61)
+- [math](#math) (24)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (7)
@@ -74,6 +74,7 @@
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.c) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.c) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.c) |
 
 ### constructive algorithms
 
@@ -175,6 +176,7 @@
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.c) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.c) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.c) |
+| 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.c) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.c) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1676/A%20-%20Lucky%3F/solution.c) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1692/A%20-%20Marathon/solution.c) |
@@ -217,6 +219,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.c) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.c) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.c) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.c) |
 
 ### number theory
 
