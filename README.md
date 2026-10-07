@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 86 | 18 |
+| 87 | 18 |
 
 ---
 
@@ -16,14 +16,14 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (12)
+- [brute force](#brute-force) (13)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (13)
-- [implementation](#implementation) (63)
+- [implementation](#implementation) (64)
 - [math](#math) (24)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -73,6 +73,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.c) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.c) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.c) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.c) |
 
@@ -190,6 +191,7 @@
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.c) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.c) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.c) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.c) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.c) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.c) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.c) |
