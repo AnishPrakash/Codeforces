@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 87 | 18 |
+| 88 | 18 |
 
 ---
 
@@ -20,11 +20,11 @@
 - [constructive algorithms](#constructive-algorithms) (5)
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (13)
+- [greedy](#greedy) (14)
 - [implementation](#implementation) (64)
-- [math](#math) (24)
+- [math](#math) (25)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (7)
@@ -103,6 +103,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.c) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.c) |
 
 ### graph matchings
@@ -124,6 +125,7 @@
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.c) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.c) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.c) |
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.c) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.c) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.c) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.c) |
@@ -221,6 +223,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.c) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.c) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.c) |
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.c) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.c) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.c) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.c) |
