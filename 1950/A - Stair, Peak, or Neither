@@ -1,0 +1,24 @@
+<h2><a href="https://codeforces.com/contest/1950/problem/A" target="_blank" rel="noopener noreferrer">1950A — Stair, Peak, or Neither?</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | GNU C11 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1950A](https://codeforces.com/contest/1950/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Stair, Peak, or Neither?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given three digits $$$a$$$, $$$b$$$, and $$$c$$$. Determine whether they form a stair, a peak, or neither. </p><ul> <li> A <span class="tex-font-style-it">stair</span> satisfies the condition $$$a \lt b \lt c$$$. </li><li> A <span class="tex-font-style-it">peak</span> satisfies the condition $$$a \lt b \gt c$$$. </li></ul></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \leq t \leq 1000$$$) — the number of test cases.</p><p>The only line of each test case contains three digits $$$a$$$, $$$b$$$, $$$c$$$ ($$$0 \leq a$$$, $$$b$$$, $$$c \leq 9$$$).</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output "<span class="tex-font-style-tt">STAIR</span>" if the digits form a stair, "<span class="tex-font-style-tt">PEAK</span>" if the digits form a peak, and "<span class="tex-font-style-tt">NONE</span>" otherwise (output the strings without quotes).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007176292045416529" id="id006018216835688196" class="input-output-copier">Copy</div></div><pre id="id007176292045416529"><div class="test-example-line test-example-line-even test-example-line-0">7</div><div class="test-example-line test-example-line-odd test-example-line-1">1 2 3</div><div class="test-example-line test-example-line-even test-example-line-2">3 2 1</div><div class="test-example-line test-example-line-odd test-example-line-3">1 5 3</div><div class="test-example-line test-example-line-even test-example-line-4">3 4 1</div><div class="test-example-line test-example-line-odd test-example-line-5">0 0 0</div><div class="test-example-line test-example-line-even test-example-line-6">4 1 7</div><div class="test-example-line test-example-line-odd test-example-line-7">4 5 7</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009699596735541377" id="id005532900513609575" class="input-output-copier">Copy</div></div><pre id="id009699596735541377">STAIR
+NONE
+PEAK
+PEAK
+NONE
+NONE
+STAIR
+</pre></div></div></div>
