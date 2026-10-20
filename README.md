@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 98 | 20 |
+| 99 | 20 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (71)
+- [implementation](#implementation) (72)
 - [math](#math) (27)
 - [number theory](#number-theory) (3)
 - [probabilities](#probabilities) (1)
@@ -171,6 +171,7 @@
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/344/A%20-%20Magnets/solution.c) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.c) |
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/427/A%20-%20Police%20Recruits/solution.c) |
+| 431A | [Black Square](https://codeforces.com/contest/431/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/431/A%20-%20Black%20Square/solution.c) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.c) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.c) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.c) |
