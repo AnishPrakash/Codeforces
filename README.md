@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 101 | 20 |
+| 102 | 20 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (9)
+- [sortings](#sortings) (10)
 - [strings](#strings) (17)
 - [two pointers](#two-pointers) (2)
 
@@ -288,6 +288,7 @@
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.c) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.c) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.c) |
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.c) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.c) |
 
 ### strings
