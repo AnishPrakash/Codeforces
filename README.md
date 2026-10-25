@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 103 | 20 |
+| 104 | 20 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (15)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
@@ -90,6 +90,7 @@
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.c) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.c) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.c) |
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.c) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.c) |
 
 ### data structures
