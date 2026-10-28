@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 105 | 20 |
+| 107 | 20 |
 
 ---
 
@@ -24,8 +24,8 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (18)
-- [implementation](#implementation) (73)
-- [math](#math) (30)
+- [implementation](#implementation) (74)
+- [math](#math) (31)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -183,6 +183,7 @@
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.c) |
+| 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.c) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.c) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
@@ -251,6 +252,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.c) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1367/B%20-%20Even%20Array/solution.c) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.c) |
+| 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.c) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.c) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.c) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.c) |
