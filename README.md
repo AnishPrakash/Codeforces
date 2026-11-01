@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 110 | 20 |
+| 111 | 20 |
 
 ---
 
@@ -24,13 +24,13 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (19)
-- [implementation](#implementation) (75)
+- [implementation](#implementation) (76)
 - [math](#math) (33)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (10)
-- [strings](#strings) (17)
+- [strings](#strings) (18)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -207,6 +207,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.c) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.c) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.c) |
+| 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.c) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.c) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1676/A%20-%20Lucky%3F/solution.c) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1692/A%20-%20Marathon/solution.c) |
@@ -319,6 +320,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.c) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.c) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.c) |
+| 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.c) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.c) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1829/A%20-%20Love%20Story/solution.c) |
