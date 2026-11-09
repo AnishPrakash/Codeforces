@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 118 | 20 |
+| 119 | 20 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (22)
 - [implementation](#implementation) (79)
-- [math](#math) (37)
+- [math](#math) (38)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -259,6 +259,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.c) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.c) |
+| 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.c) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.c) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.c) |
