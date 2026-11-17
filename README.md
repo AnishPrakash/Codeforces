@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 123 | 20 |
+| 127 | 20 |
 
 ---
 
@@ -16,16 +16,16 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (18)
+- [brute force](#brute-force) (19)
 - [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (22)
-- [implementation](#implementation) (80)
-- [math](#math) (41)
+- [greedy](#greedy) (23)
+- [implementation](#implementation) (81)
+- [math](#math) (45)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -76,6 +76,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.c) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1853/A%20-%20Desorting/solution.c) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.c) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1873/B%20-%20Good%20Kid/solution.c) |
@@ -110,6 +111,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.c) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1472/B%20-%20Fair%20Division/solution.java) |
 
 ### expression parsing
 
@@ -146,6 +148,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.c) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.c) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.c) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1472/B%20-%20Fair%20Division/solution.java) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.c) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1742/B%20-%20Increasing/solution.c) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1853/A%20-%20Desorting/solution.c) |
@@ -226,6 +229,7 @@
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1742/B%20-%20Increasing/solution.c) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.c) |
 | 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.c) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.c) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.c) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.c) |
@@ -272,12 +276,16 @@
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.c) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.c) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.c) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1472/B%20-%20Fair%20Division/solution.java) |
+| 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.java) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.c) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.java) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1853/A%20-%20Desorting/solution.c) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.c) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.c) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.java) |
+| 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1873/B%20-%20Good%20Kid/solution.c) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.c) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.java) |
