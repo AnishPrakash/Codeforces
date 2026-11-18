@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 127 | 20 |
+| 128 | 21 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (19)
 - [constructive algorithms](#constructive-algorithms) (10)
@@ -25,12 +25,13 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (23)
 - [implementation](#implementation) (81)
-- [math](#math) (45)
+- [math](#math) (46)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (14)
 - [strings](#strings) (18)
+- [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -54,6 +55,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 
 ### bitmasks
 
@@ -291,6 +293,7 @@
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.c) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.c) |
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.c) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.c) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.c) |
@@ -359,6 +362,12 @@
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.c) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.c) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.c) |
+
+### ternary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 
 ### two pointers
 
