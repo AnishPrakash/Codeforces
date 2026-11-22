@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 131 | 21 |
+| 132 | 21 |
 
 ---
 
@@ -24,8 +24,8 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (25)
-- [implementation](#implementation) (82)
-- [math](#math) (47)
+- [implementation](#implementation) (83)
+- [math](#math) (48)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -239,6 +239,7 @@
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.c) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.c) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.c) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1829/A%20-%20Love%20Story/solution.c) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.c) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.c) |
@@ -287,6 +288,7 @@
 | 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.java) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.c) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.java) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1853/A%20-%20Desorting/solution.c) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.c) |
