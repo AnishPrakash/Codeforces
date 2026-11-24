@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 132 | 21 |
+| 134 | 21 |
 
 ---
 
@@ -24,13 +24,13 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (25)
-- [implementation](#implementation) (83)
+- [implementation](#implementation) (84)
 - [math](#math) (48)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (15)
-- [strings](#strings) (18)
+- [strings](#strings) (19)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
 
@@ -231,6 +231,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.c) |
 | 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1722/A%20-%20Spell%20Check/solution.c) |
+| 1722B | [Colourblindness](https://codeforces.com/contest/1722/problem/B) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1722/B%20-%20Colourblindness/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.c) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1742/B%20-%20Increasing/solution.c) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.c) |
@@ -370,6 +371,7 @@
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.c) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.c) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.c) |
+| 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.java) |
 
 ### ternary search
 
