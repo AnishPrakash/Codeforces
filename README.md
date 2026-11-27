@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 136 | 21 |
+| 137 | 21 |
 
 ---
 
@@ -24,12 +24,12 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (26)
-- [implementation](#implementation) (86)
+- [implementation](#implementation) (87)
 - [math](#math) (49)
 - [number theory](#number-theory) (6)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (15)
+- [sortings](#sortings) (16)
 - [strings](#strings) (19)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
@@ -230,6 +230,7 @@
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.c) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.c) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.c) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1669/B%20-%20Triple/solution.java) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1676/A%20-%20Lucky%3F/solution.c) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1692/A%20-%20Marathon/solution.c) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
@@ -346,6 +347,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.c) |
 | 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.c) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [Java 21](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1669/B%20-%20Triple/solution.java) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.c) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1742/B%20-%20Increasing/solution.c) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [GNU C11](https://github.com/AnishPrakash/Codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.c) |
